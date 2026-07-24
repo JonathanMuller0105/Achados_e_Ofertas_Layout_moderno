@@ -26,4 +26,4 @@ Você pode acessar a versão live do projeto clicando no link abaixo:
 **(COLE AQUI O SEU LINK DO GITHUB PAGES)**
 
 ---
-*Projeto desenvolvido por [Seu Nome/Jonathan] como demonstração de habilidades em desenvolvimento Front-End.*
+*Projeto desenvolvido por Jonathan Muller como demonstração de habilidades em desenvolvimento Front-End.*
